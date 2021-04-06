@@ -1,0 +1,23 @@
+nav.navbar-color {
+    background-color: #004C97;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.qwx-nav-item {
+    color: #ffeaea;
+    margin: 0 0 0 2.5vw;
+}
+
+a.qwx-nav-item:hover {
+    background-color: #004C97;
+    color: #ffeaea;
+}
+
+a.button.is-outlined.qwx-nav-button {
+    border-color: #ffeaea;
+    color: #ffeaea;
+}
+
+a.button.is-outlined.qwx-nav-button:hover {
+    background-color: #ffeaea;
+}
